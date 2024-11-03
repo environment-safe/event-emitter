@@ -1,5 +1,5 @@
 {
-    "name": "event-emitter",
+    "name": "@environment-safe/event-emitter",
     "version": "0.0.1",
     "type": "module",
     "main": "dist/index.mjs",
@@ -23,17 +23,17 @@
             "require": "./dist/index.cjs"
         }
     },
-    "homepage": "null",
-    "description": "null",
+    "homepage": "https://github.com/environment-safe/event-emitter",
+    "description": "cross environment EventEmitter + Enhancements",
     "keywords": [],
-    "author": "null <null>()",
+    "author": "Abbey Hawk Sparrow <@khrome> (http://patternweaver.com)",
     "contributors": [],
     "repository": {
         "type": "git",
-        "url": "null"
+        "url": "git@github.com:environment-safe/event-emitter.git"
     },
     "bugs": {
-        "url": "null"
+        "url": "https://github.com/environment-safe/event-emitter/issues"
     },
     "moka": {
         "firefox": {
